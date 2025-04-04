@@ -11,7 +11,7 @@
     <li />Microsoft Wndows 11 OOBE Bypass: Shift-F10 --> start ms-cxh:localonly
     <li />Microsoft Graph Console GUI Search Tool: https://t.co/JBzIAWmgjo
     <li />SQL Full Course: https://www.youtube.com/watch?v=7mz73uXD9DA
-    <li />MS ENtra ID GOvernance Guide: https://aka.ms/DeployEIG
+    <li />MS Entra ID Governance Guide: https://aka.ms/DeployEIG
     <li />AD Essentials PS Module: https://github.com/EvotecIT/ADEssentials
 </ul>
 
