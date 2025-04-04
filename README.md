@@ -3,10 +3,11 @@
 
 <p>Microsoft</p>
 
-Active Directory Hardening - Jerry Devore - https://techcommunity.microsoft.com/tag/adhardening<br />
-Microsoft Purview Guide - https://learn.microsoft.com/en-us/purview/deploymentmodels/depmod-securebydefault-intro<br />
-MS Teams - Emergency Ops Center - https://adoption.microsoft.com/en-us/microsoft-teams/app-templates/emergency-operations-center/<br />
-Microsoft - Unified Audit Log - https://learn.microsoft.com/en-us/purview/audit-mailboxes<br />
+Active Directory Hardening - Jerry Devore: https://techcommunity.microsoft.com/tag/adhardening<br />
+Microsoft Purview Guide: https://learn.microsoft.com/en-us/purview/deploymentmodels/depmod-securebydefault-intro<br />
+MS Teams - Emergency Ops Center: https://adoption.microsoft.com/en-us/microsoft-teams/app-templates/emergency-operations-center/<br />
+Microsoft - Unified Audit Log: - https://learn.microsoft.com/en-us/purview/audit-mailboxes<br />
+Microsoft Wndows 11 OOBE Bypass: Shift-F10 --> start ms-cxh:localonly
 
 <p>Linux</p>
 
