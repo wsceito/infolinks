@@ -4,17 +4,21 @@
 <p>Microsoft</p>
 
 <ul>
-    <li />Active Directory Hardening - Jerry Devore: https://techcommunity.microsoft.com/tag/adhardening<br />
-    <li />Microsoft Purview Guide: https://learn.microsoft.com/en-us/purview/deploymentmodels/depmod-securebydefault-intro<br />
-    <li />MS Teams - Emergency Ops Center: https://adoption.microsoft.com/en-us/microsoft-teams/app-templates/emergency-operations-center/<br />
-    <li />Microsoft - Unified Audit Log: - https://learn.microsoft.com/en-us/purview/audit-mailboxes<br />
+    <li />Active Directory Hardening - Jerry Devore: https://techcommunity.microsoft.com/tag/adhardening
+    <li />Microsoft Purview Guide: https://learn.microsoft.com/en-us/purview/deploymentmodels/depmod-securebydefault-intro
+    <li />MS Teams - Emergency Ops Center: https://adoption.microsoft.com/en-us/microsoft-teams/app-templates/emergency-operations-center/
+    <li />Microsoft - Unified Audit Log: https://learn.microsoft.com/en-us/purview/audit-mailboxes
     <li />Microsoft Wndows 11 OOBE Bypass: Shift-F10 --> start ms-cxh:localonly
+    <li />Microsoft Graph Console GUI Search Tool: https://t.co/JBzIAWmgjo
+    <li />SQL Full Course: https://www.youtube.com/watch?v=7mz73uXD9DA
+    <li />MS ENtra ID GOvernance Guide: https://aka.ms/DeployEIG
+    <li />AD Essentials PS Module: https://github.com/EvotecIT/ADEssentials
 </ul>
 
 <p>Linux</p>
 
 <ul>
-    <li />Active Directory Hardening - Jerry Devore: https://techcommunity.microsoft.com/tag/adhardening<br />
+    <li />
 </ul>
 
 <p>AI</p>
@@ -28,5 +32,5 @@
 <p>Management Tools</p>
 
 <ul>
-    <li />SSH Hardening Guides - https://www.sshaudit.com/hardening_guides.html<br />
+    <li />SSH Hardening Guides - https://www.sshaudit.com/hardening_guides.html
 </ul>
